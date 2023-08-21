@@ -14,4 +14,6 @@ O projeto é composto de 7 códigos principais, sendo eles
 - edit_script: garantindo a edição do usuário
 - excluir_script: garantindo a exclusão do usuário
 
+![image](https://github.com/tatianambmorais/CRUD-PHP/assets/132843951/e4d1dbae-2e7e-4df3-9e6f-33ec14d14bee)
+![image](https://github.com/tatianambmorais/CRUD-PHP/assets/132843951/2212986b-e6b3-4d8c-8759-629b5d892f5b)
 
