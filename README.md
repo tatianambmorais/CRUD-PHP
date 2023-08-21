@@ -1,5 +1,5 @@
 
-# Cadastri de pessoas
+# Cadastro de pessoas
 
 O projeto é um CRUD de cadastro de pessoas.
 Para sua utilização, foram utilizadas as linguagens JavaScript, HTML, CSS, PHP e o framework Bootstrap.
