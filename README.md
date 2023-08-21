@@ -1,5 +1,5 @@
 
-# Título do Projeto
+# Cadastri de oessias
 
 O projeto é um CRUD de cadastro de pessoas.
 Para sua utilização, foram utilizadas as linguagens JavaScript, HTML, CSS, PHP e o framework Bootstrap.
@@ -13,4 +13,5 @@ O projeto é composto de 7 códigos principais, sendo eles
 - cadastro_script: garantindo a inclusão do usuário
 - edit_script: garantindo a edição do usuário
 - excluir_script: garantindo a exclusão do usuário
+
 
